@@ -416,3 +416,10 @@ p:last-child {
     font-size: 2.2em;
   }
 }
+
+.students {
+    width: 200px;
+    clip-path: circle();
+    display: block;
+    margin:0px auto;
+}
